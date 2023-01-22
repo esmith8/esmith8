@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @esmith8
 - 👀 I’m interested in computer science, linux, typing, and learning new things.
-- 🌱 I’m currently learning how to program in CS 1112 (Introduction to Programming).
+- 🌱 I’m currently learning how to survive CS in CS 3100 and CS 3140. My ultimate goal is to go into statistics but I can't until I get out of the Engineering School.
 - 💞️ I’m looking to collaborate on anything that I can help with.
-- 📫 How to reach me: Please email me at evan.smith@email.virginia.edu
 
 <!---
 esmith8/esmith8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
